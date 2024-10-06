@@ -1,0 +1,27 @@
+{
+  "name": "saucelabs-staging-cypress",
+  "version": "1.0.0",
+  "description": "Automation Testing for Saucelabs with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naseraine/Sanber-Saucelabs-Cypress.git"
+  },
+  "keywords": [
+    "Automation",
+    "Cypress",
+    "Testing"
+  ],
+  "author": "Rasyid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naseraine/Sanber-Saucelabs-Cypress/issues"
+  },
+  "homepage": "https://github.com/Naseraine/Sanber-Saucelabs-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
